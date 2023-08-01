@@ -10,6 +10,6 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
-(Image)![image](https://github.com/2023-FL/React_Native_Weather_Widget/assets/57984642/3023bc59-97bb-4ffe-9f88-24d44ec3d993)
+
 
 ![image](https://github.com/2023-FL/React_Native_Weather_Widget/assets/57984642/36af6e7b-0639-4e7f-af2a-fb1a84cc0c78)
